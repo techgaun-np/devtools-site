@@ -1,1 +1,2 @@
-Moved elsewhere instead of gh pages
+- Moved elsewhere instead of gh pages
+- this repo serves as place to file issues on [devtools](https://devtools.techgaun.com)
